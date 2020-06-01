@@ -17,7 +17,7 @@ public class Main {
         }else if(numero >= 75.00001 && numero <= 100.000000){
             System.out.printf("Intervalo [75,100]%n");
         }else{
-            System.out.print("Fora de Intervalo%n");
+            System.out.print("Fora de Intervalo");
         }
     }
 }
